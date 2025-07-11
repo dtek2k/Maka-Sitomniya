@@ -43,6 +43,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 18: Mason Grimshaw
 - Member 19: Sarah Yandell
 - Member 20: Alicia Swimmer
+- Member 21: Frank Gangone Jr.
 
 ## Meeting Notes and Agendas
 - Notes from our first in-person meeting can be downloaded here: [Meeting Notes 0724](https://github.com/CU-ESIIL/Maka-Sitomniya/blob/main/docs/Summary%20In%20person%20meeting%20notes%200724.docx).
